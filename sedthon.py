@@ -670,7 +670,9 @@ async def _(event):
 async def _(event):
     photo = await sedthon.get_profile_photos(DEVS[1555087684])
     await sedthon.send_file(event.chat_id, photo, caption=f'''
-    The best !
+    - المطور @s_i_d .
+- قناة السورس @syntral .
+- سوبر المطور @ss_iid . !
       - @S_i_D
 ''', reply_to=event)
 
@@ -679,7 +681,9 @@ async def _(event):
 async def _(event):
     photo = await sedthon.get_profile_photos(DEVS[1555087684])
     await sedthon.send_file(event.chat_id, photo, caption=f'''
-    The best !
+    - المطور @s_i_d .
+- قناة السورس @syntral .
+- سوبر المطور @ss_iid . !
       - @S_i_D
 ''', reply_to=event)
 
